@@ -46,3 +46,12 @@ body{
   border-radius: 15px;
   padding: 5px;
 }
+.conversa{
+  font-weight: bold;
+  font-family: arial;
+  color: black;
+  background-color: white;
+  border: red solid 8px;
+  border-radius: 15px;
+  padding: 5px;
+}
