@@ -8,6 +8,7 @@ body{
   color: blue;
   background-color: white;
   border: dimgray solid 8px;
+  border-radius: 0 25px 0 25px;
   margin: 5% 16% 0% 16%
 }
 .cred{
@@ -16,7 +17,7 @@ body{
   color: red;
   background-color: white;
   border: dimgray solid 8px;
-  border-radius: 15px;
+  border-radius: 25px 0 25px 0;
   margin: 5% 25% 0% 25%
 }
 .possivel{
