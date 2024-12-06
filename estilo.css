@@ -6,15 +6,24 @@ body{
 .titulo{
   font-family: times;
   color: blue;
-  background-color: darkgray;
+  background-color: white;
   border: dimgray solid 8px;
   margin: 5% 16% 0% 16%
+}
+.cred{
+  font-family: times;
+  font-size: 14px;
+  color: red;
+  background-color: white;
+  border: dimgray solid 8px;
+  border-radius: 15px;
+  margin: 5% 25% 0% 25%
 }
 .possivel{
   font-style: italic;
   font-size: 8px;
   color: dimgray;
-  margin: 5px 0 50px 0;
+  margin: 5px 0 40px 0;
 }
 .regpol{
   color: white;
