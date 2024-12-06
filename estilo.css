@@ -25,20 +25,23 @@ body{
   color: dimgray;
   margin: 5px 0 40px 0;
 }
+
 .regpol{
+  font-weight: bold;
+  font-family: arial;
   color: white;
   background-color: #6997ac;
   border: #4c88bc solid 8px;
   border-radius: 15px;
-  font-weight: bold;
   padding: 5px;
   margin: 0px 0 0px 0px;
 }
 .gatojoia{
+  font-weight: bold;
+  font-family: arial;
   color: black;
   background-color: #c7af9d;
   border: #e7cac4 solid 8px;
-  font-weight: bold;
   border-radius: 15px;
   padding: 5px;
 }
