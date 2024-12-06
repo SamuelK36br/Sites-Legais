@@ -21,6 +21,7 @@ body{
 }
 .possivel{
   font-style: italic;
+  font-family: arial;
   font-size: 8px;
   color: dimgray;
   margin: 5px 0 40px 0;
@@ -28,7 +29,7 @@ body{
 
 .regpol{
   font-weight: bold;
-  font-family: hervical;
+  font-family: arial;
   color: white;
   background-color: #6997ac;
   border: #4c88bc solid 8px;
@@ -38,7 +39,7 @@ body{
 }
 .gatojoia{
   font-weight: bold;
-  font-family: hervical;
+  font-family: arial;
   color: black;
   background-color: #c7af9d;
   border: #e7cac4 solid 8px;
